@@ -2,4 +2,4 @@
 
 ## Readme file for the advanced Demo project 
 This is a simple readme file
-i hope this is not much of a problem
+This is readme for advanced demo and i have resolved all my conflicts
