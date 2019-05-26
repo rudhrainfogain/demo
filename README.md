@@ -2,4 +2,4 @@
 
 ## Readme file for the advanced Demo project 
 This is a simple readme file
-This is readme for advanced demo and i have resolved all my conflicts
+what are you doing are you stashing
